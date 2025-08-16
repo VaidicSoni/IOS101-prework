@@ -1,8 +1,8 @@
-# Prework - *Prework*
+# Prework - *Flashy Backgrounds*
 
 Submitted by: **Vaidic Soni**
 
-**Prework** is an app that... [TODO] 
+**Flashy Backgrounds** is an app that... [TODO] 
 
 Time spent: **1** hour spent in total
 
