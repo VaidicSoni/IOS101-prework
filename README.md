@@ -2,7 +2,7 @@
 
 Submitted by: **Vaidic Soni**
 
-**Flashy Backgrounds** is an app that... [TODO] 
+**Flashy Backgrounds** is an app that changes backgorund randomly when you click the button. 
 
 Time spent: **1** hour spent in total
 
